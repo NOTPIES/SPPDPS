@@ -8,6 +8,7 @@ The first South Park Phone Destroyer private server (Open Source)
   - Bot matches on PVP
   - Working decks edit (ONLY DECK 0 FOR NOW)
   - All Cards / infinite currency
+  - Joining real PVP matches with all cards LMAOOOO
   
  
 - TODO:
