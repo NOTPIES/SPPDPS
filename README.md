@@ -16,3 +16,5 @@ The first South Park Phone Destroyer private server (Open Source)
   - Outfits changing (avatar changing works but outfit doesnt)
   - Teams (only 1 for testing ofc not actual multiplayer teams lol)
   - Maybe some more but i forgor lol
+
+development will continue on feb 1st 2023
