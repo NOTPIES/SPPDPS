@@ -1,18 +1,17 @@
-<h1 align='center'>SPPDPS</h1>
+# SPPDPS (WIP)
 
-The first South Park Phone Destroyer private server (Open Source)
+The first South Park: Phone Destroyer private server (open source).
 
-- Features List:
-  - Level Saving
-  - Messages saving
-  - Bot matches on PVP
-  - Working decks edit (ONLY DECK 0 FOR NOW)
-  - All Cards / infinite currency
-  - Joining real PVP matches with all cards LMAOOOO
-  
- 
-- TODO:
-  - Free catalog purchases
-  - Outfits changing (avatar changing works but outfit doesnt)
-  - Teams (only 1 for testing ofc not actual multiplayer teams lol)
-  - Maybe some more but i forgor lol
+## About
+
+SPPDPS is an open-source private server for South Park: Phone Destroyer, built using TypeScript. It aims to replicate the original game's backend behavior for educational, archival and development purposes.
+
+## Getting Started
+
+1. Clone the repository.
+2. Install dependencies: `npm install`
+3. Start the server (Nodemon): `npm run dev:watch`
+
+## Disclaimer
+
+This project is for educational purposes only. It is not affiliated with or endorsed by Ubisoft or South Park Digital Studios.
